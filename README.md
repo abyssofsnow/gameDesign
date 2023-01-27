@@ -1,7 +1,6 @@
 # game Design: Xia's Revenge
 
-Individual Game Design Project (Open Prompt) 
-<br>Solo project that aimed to take storytelling of martial arts blend with board and card game tactics.
+Individual game design project that aimed to take storytelling of martial arts blend with board and card game tactics.
 
 <b>Xia’s Revenge</b> tells a story of love-turned-hatred, of loss of family, of a chosen family built on
 close friendship, and of revenge and protection of homeland. As a multiplayer social-deduction
