@@ -7,5 +7,5 @@ Xia’s Revenge is a character strategy and social deduction game where the hidd
 to overtake the empire, and the good martial artists tries to protect and restore peace to the
 land.
 
-<br><b>Interested at game overview? </b>
+<b>Interested at game overview? </b>
 <br>View my Final Presentation: https://clipchamp.com/watch/UDY7RY7LJxp
