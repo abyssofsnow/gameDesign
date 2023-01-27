@@ -8,4 +8,4 @@ to overtake the empire, and the good martial artists tries to protect and restor
 land.
 
 Solo project that aimed to take storytelling of martial arts blend with board and card game tactics to create a fun interactive game.
-Timed Final Presentation: View https://clipchamp.com/watch/UDY7RY7LJxp
+<br>Timed Final Presentation: View https://clipchamp.com/watch/UDY7RY7LJxp
