@@ -1,4 +1,4 @@
-# gameDesign
+# game Design
 
 Individual Game Design Project (Open Prompt)
 <br> Game Title: Xia’s Revenge 
@@ -6,3 +6,5 @@ Individual Game Design Project (Open Prompt)
 Xia’s Revenge is a character strategy and social deduction game where the hidden Demons tries
 to overtake the empire, and the good martial artists tries to protect and restore peace to the
 land.
+
+Solo project that aimed to take storytelling of martial arts blend with board and card game tactics to create a fun interactive game.
