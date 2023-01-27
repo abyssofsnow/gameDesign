@@ -13,8 +13,8 @@ lack thereof), it’s a race of revenge and elimination.
 https://clipchamp.com/watch/UDY7RY7LJxp
 
 View <b>Main Document</b> for all game rules and references
-View <b>Final_Presentation</b> for presentation overview slides
-View <b>Final_Prototype</b> for final Board game and Card deck design
+<br>View <b>Final_Presentation</b> for presentation overview slides
+<br>View <b>Final_Prototype</b> for final Board game and Card deck design
 
 
 
